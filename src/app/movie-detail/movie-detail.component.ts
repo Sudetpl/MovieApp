@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { Subscriber } from 'rxjs';
 import { Movie } from '../movie';
 import { MovieService } from '../movie.service';
 
